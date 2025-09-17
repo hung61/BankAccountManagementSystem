@@ -1,0 +1,47 @@
+- Test case 1:
+Name: Nguyen Khanh Hung
+ID: C001
+
+Choose function:
+1. Open new account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Show total balances
+6. Compare 2 accounts
+Choose: 1
+======================
+Enter account type (Regular / Savings): Regular
+Enter account number: ACC003
+Enter owner name: Nguyen Khanh Hung
+Open new account sucessful!
+
+Account number: ACC003
+Current balance: 0 VND
+- Test case 2:
+Name: Nguyen Khanh Hung
+ID: C001
+
+Choose function:
+1. Open new account
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Show total balances
+6. Compare 2 accounts
+Choose: 2
+======================
+Choose type of account:
+1. Regular
+2. Savings
+Choose: 1
+
+Choose one of account numbers below:
+1. ACC001
+2. ACC002
+Choose: 1
+
+Enter the amount you want to deposit: 36000
+Deposit sucessful!
+Account number: ACC001
+Current balance: 186000 VND
